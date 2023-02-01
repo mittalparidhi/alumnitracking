@@ -1,0 +1,26 @@
+<style>
+            body{
+                background-color:rgb(95, 154, 220);
+            }
+            dt{
+                font-size: 25px;
+                color: black;
+            }
+            dd a{
+                display: block;
+                text-align: center;
+                text-decoration:wavy;
+                font-size: 30px;
+                color:rgb(25, 68, 116);
+            }
+            dd a:hover{
+                color: rgb(0, 0, 90);
+            }
+            dd a:active{
+                color: black;
+            }
+            dd a:visited{
+                color: rgb(94, 93, 93);
+            
+            }
+</style>
